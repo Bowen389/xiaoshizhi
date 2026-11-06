@@ -12,8 +12,8 @@
       "buy_price": 2.46,
       "entry_cost": 17225.17,
       "dividends": 0.0,
-      "last_price": 2.52,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.48,
+      "last_quote_date": "2026-11-06"
     },
     "002247": {
       "code": "002247",
@@ -23,8 +23,8 @@
       "buy_price": 2.03,
       "entry_cost": 17260.17,
       "dividends": 0.0,
-      "last_price": 2.14,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.1,
+      "last_quote_date": "2026-11-06"
     },
     "002486": {
       "code": "002486",
@@ -34,8 +34,8 @@
       "buy_price": 2.26,
       "entry_cost": 17407.17,
       "dividends": 0.0,
-      "last_price": 2.42,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.41,
+      "last_quote_date": "2026-11-06"
     },
     "002495": {
       "code": "002495",
@@ -45,8 +45,8 @@
       "buy_price": 2.1,
       "entry_cost": 17225.17,
       "dividends": 0.0,
-      "last_price": 2.17,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.15,
+      "last_quote_date": "2026-11-06"
     },
     "002535": {
       "code": "002535",
@@ -56,8 +56,8 @@
       "buy_price": 2.41,
       "entry_cost": 17357.17,
       "dividends": 0.0,
-      "last_price": 2.58,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.47,
+      "last_quote_date": "2026-11-06"
     },
     "002622": {
       "code": "002622",
@@ -67,8 +67,8 @@
       "buy_price": 2.12,
       "entry_cost": 17389.17,
       "dividends": 0.0,
-      "last_price": 2.18,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.13,
+      "last_quote_date": "2026-11-06"
     },
     "002656": {
       "code": "002656",
@@ -78,8 +78,8 @@
       "buy_price": 2.55,
       "entry_cost": 17345.17,
       "dividends": 0.0,
-      "last_price": 2.58,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.54,
+      "last_quote_date": "2026-11-06"
     },
     "600159": {
       "code": "600159",
@@ -89,8 +89,8 @@
       "buy_price": 2.26,
       "entry_cost": 17407.17,
       "dividends": 0.0,
-      "last_price": 2.37,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.32,
+      "last_quote_date": "2026-11-06"
     },
     "600303": {
       "code": "600303",
@@ -100,8 +100,8 @@
       "buy_price": 2.61,
       "entry_cost": 17231.17,
       "dividends": 0.0,
-      "last_price": 2.69,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.64,
+      "last_quote_date": "2026-11-06"
     },
     "600448": {
       "code": "600448",
@@ -111,8 +111,8 @@
       "buy_price": 2.54,
       "entry_cost": 17277.17,
       "dividends": 0.0,
-      "last_price": 2.69,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.65,
+      "last_quote_date": "2026-11-06"
     },
     "600807": {
       "code": "600807",
@@ -122,8 +122,8 @@
       "buy_price": 2.3,
       "entry_cost": 17255.17,
       "dividends": 0.0,
-      "last_price": 2.43,
-      "last_quote_date": "2026-11-05"
+      "last_price": 2.4,
+      "last_quote_date": "2026-11-06"
     }
   },
   "orders": [
@@ -948,6 +948,16 @@
       "return_pct": -0.0239,
       "holdings": 11,
       "stale_codes": []
+    },
+    {
+      "date": "2026-11-06",
+      "observed_at": "2026-11-06T16:21:57.109776+08:00",
+      "cash": 1178.2,
+      "market_value": 195227.0,
+      "equity": 196405.2,
+      "return_pct": -1.7974,
+      "holdings": 11,
+      "stale_codes": []
     }
   ],
   "corporate_done": [
@@ -957,7 +967,8 @@
     "2026-11-02",
     "2026-11-03",
     "2026-11-04",
-    "2026-11-05"
+    "2026-11-05",
+    "2026-11-06"
   ],
   "started": "2026-10-28",
   "startup_buy": "2026-10-29",

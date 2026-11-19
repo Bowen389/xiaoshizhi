@@ -32,6 +32,9 @@ def run(phase):
  if not market.trading_day(day):
   render(s,None,'休市，无交易',observed);print('休市',stamp);return
  if phase=='auto':phase='close' if (clock.hour,clock.minute)>=(15,10) else ('watch' if (clock.hour,clock.minute)>=(9,30) else 'preflight')
+ if phase in ('preflight','open','watch') and (clock.hour,clock.minute)>=(15,10):
+  print('盘中任务已延迟至收盘后，转入收盘恢复阶段；保留真实观测时间。')
+  phase='close'
  if phase=='preflight':render(s,None,phase,observed);print('盘前检查；未模拟买入');return
  if (clock.hour,clock.minute)<(9,30):raise ValueError('尚未开盘，不能创建当日开盘价模拟成交')
  if phase=='close' and (clock.hour,clock.minute)<(15,10):raise ValueError('尚未收盘，不能封存收盘信号或按收盘价卖出')

@@ -1,115 +1,100 @@
 {
-  "input_file": "data/inputs/2026-11-19_e677d99d20aa_universe.csv",
-  "date": "2026-11-19",
-  "observed_at": "2026-11-19T18:50:05.564663+08:00",
-  "universe_source_date": "2026-11-19",
+  "input_file": "data/inputs/2026-11-20_cc2e29f2fedc_universe.csv",
+  "date": "2026-11-20",
+  "observed_at": "2026-11-20T16:33:50.944084+08:00",
+  "universe_source_date": "2026-11-20",
   "universe_count": 3194,
   "valid_rank_count": 3194,
-  "universe_sha256": "e677d99d20aa087db233f20478cf6d796ac68696692fa2b84b0af2c70b4b5407",
+  "universe_sha256": "cc2e29f2fedc28901ac4420e99c826a4efec62c04ae0290415e95ebdc79c9f5e",
   "candidates": [
     {
       "code": "002133",
       "name": "广宇集团",
-      "price": 2.3,
-      "prev": 2.37,
-      "open": 2.38,
-      "volume": 10987200.0,
-      "timestamp": "20261119161451",
-      "high": 2.39,
-      "low": 2.28,
-      "cap": 1780999999.9999998,
-      "upper": 2.61,
-      "lower": 2.13,
+      "price": 2.17,
+      "prev": 2.3,
+      "open": 2.25,
+      "volume": 13718600.0,
+      "timestamp": "20261120161415",
+      "high": 2.29,
+      "low": 2.16,
+      "cap": 1680000000.0,
+      "upper": 2.53,
+      "lower": 2.07,
       "listed_date": "2007-04-27"
-    },
-    {
-      "code": "002495",
-      "name": "佳隆股份",
-      "price": 2.03,
-      "prev": 2.11,
-      "open": 2.11,
-      "volume": 27770900.0,
-      "timestamp": "20261119161421",
-      "high": 2.11,
-      "low": 2.02,
-      "cap": 1898999999.9999998,
-      "upper": 2.32,
-      "lower": 1.9,
-      "listed_date": "2010-11-02"
     },
     {
       "code": "002656",
       "name": "摩登大道",
-      "price": 2.48,
-      "prev": 2.39,
-      "open": 2.41,
-      "volume": 49522200.0,
-      "timestamp": "20261119161442",
-      "high": 2.63,
-      "low": 2.37,
-      "cap": 1767000000.0000002,
-      "upper": 2.63,
-      "lower": 2.15,
+      "price": 2.32,
+      "prev": 2.48,
+      "open": 2.25,
+      "volume": 62150000.0,
+      "timestamp": "20261120161433",
+      "high": 2.41,
+      "low": 2.23,
+      "cap": 1653000000.0,
+      "upper": 2.73,
+      "lower": 2.23,
       "listed_date": "2012-02-28"
     },
     {
       "code": "002775",
       "name": "文科股份",
-      "price": 2.53,
-      "prev": 2.64,
-      "open": 2.62,
-      "volume": 11947800.0,
-      "timestamp": "20261119161445",
-      "high": 2.64,
-      "low": 2.5,
-      "cap": 1664000000.0,
-      "upper": 2.9,
-      "lower": 2.38,
+      "price": 2.39,
+      "prev": 2.53,
+      "open": 2.46,
+      "volume": 15889000.0,
+      "timestamp": "20261120161436",
+      "high": 2.52,
+      "low": 2.35,
+      "cap": 1572000000.0,
+      "upper": 2.78,
+      "lower": 2.28,
       "listed_date": "2015-06-29"
     },
     {
       "code": "600159",
       "name": "大龙地产",
-      "price": 2.18,
-      "prev": 2.23,
-      "open": 2.24,
-      "volume": 13422500.0,
-      "timestamp": "20261119161456",
-      "high": 2.26,
-      "low": 2.15,
-      "cap": 1809000000.0,
-      "upper": 2.45,
-      "lower": 2.01,
+      "price": 2.1,
+      "prev": 2.18,
+      "open": 2.13,
+      "volume": 19426200.0,
+      "timestamp": "20261120161447",
+      "high": 2.17,
+      "low": 2.06,
+      "cap": 1743000000.0,
+      "upper": 2.4,
+      "lower": 1.96,
       "listed_date": "1998-05-26"
     },
     {
       "code": "600303",
       "name": "曙光股份",
-      "price": 2.4,
-      "prev": 2.5,
-      "open": 2.5,
-      "volume": 21168700.0,
-      "timestamp": "20261119161500",
-      "high": 2.52,
-      "low": 2.39,
-      "cap": 1641000000.0,
-      "upper": 2.75,
-      "lower": 2.25,
+      "price": 2.27,
+      "prev": 2.4,
+      "open": 2.35,
+      "volume": 25687900.0,
+      "timestamp": "20261120161452",
+      "high": 2.4,
+      "low": 2.26,
+      "cap": 1552000000.0,
+      "upper": 2.64,
+      "lower": 2.16,
       "listed_date": "2000-12-26"
     },
     {
       "code": "600448",
       "name": "华纺股份",
-      "price": 2.47,
-      "prev": 2.54,
-      "open": 2.53,
-      "volume": 30584800.0,
-      "timestamp": "20261119161449",
-      "high": 2.58,
-      "low": 2.42,
-      "cap": 1556000000.0,
-      "upper": 2.79,
-      "lower": 2.29,
+      "price": 2.3,
+      "prev": 2.47,
+      "open": 2.41,
+      "volume": 35312500.0,
+      "timestamp": "20261120161455",
+      "high": 2.45,
+      "low": 2.28,
+      "cap": 1449000000.0,
+      "upper": 2.72,
+      "lower": 2.22,
       "listed_date": "2001-09-03"
     }
   ],
@@ -148,6 +133,14 @@
       ]
     },
     {
+      "code": "000826",
+      "name": "*ST启环",
+      "reasons": [
+        "价格不大于2元",
+        "当前ST"
+      ]
+    },
+    {
       "code": "600187",
       "name": "*ST国中",
       "reasons": [
@@ -158,14 +151,6 @@
     {
       "code": "600491",
       "name": "ST龙元",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
-      "code": "000826",
-      "name": "*ST启环",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -188,8 +173,8 @@
       ]
     },
     {
-      "code": "002726",
-      "name": "ST龙大",
+      "code": "000639",
+      "name": "ST西王",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -204,32 +189,8 @@
       ]
     },
     {
-      "code": "000639",
-      "name": "ST西王",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
-      "code": "000056",
-      "name": "*ST皇庭",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
       "code": "002547",
       "name": "*ST春兴",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
-      "code": "000677",
-      "name": "ST海龙",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -247,6 +208,14 @@
       "name": "金浦钛业",
       "reasons": [
         "价格不大于2元"
+      ]
+    },
+    {
+      "code": "000677",
+      "name": "ST海龙",
+      "reasons": [
+        "价格不大于2元",
+        "当前ST"
       ]
     },
     {
@@ -269,6 +238,13 @@
       "reasons": [
         "价格不大于2元",
         "当前ST"
+      ]
+    },
+    {
+      "code": "002495",
+      "name": "佳隆股份",
+      "reasons": [
+        "价格不大于2元"
       ]
     },
     {

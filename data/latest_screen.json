@@ -1,100 +1,100 @@
 {
-  "input_file": "data/inputs/2026-11-23_95a3b9551131_universe.csv",
-  "date": "2026-11-23",
-  "observed_at": "2026-11-23T17:06:15.168138+08:00",
-  "universe_source_date": "2026-11-23",
+  "input_file": "data/inputs/2026-11-24_89dfaf9073fe_universe.csv",
+  "date": "2026-11-24",
+  "observed_at": "2026-11-24T17:55:39.489209+08:00",
+  "universe_source_date": "2026-11-24",
   "universe_count": 3194,
   "valid_rank_count": 3194,
-  "universe_sha256": "95a3b955113107a7ce33c8b1a6574ac65e47ecb5d8439c6012465c0b48690e62",
+  "universe_sha256": "89dfaf9073fe1eda3ac6e2ff8b13b888f0454ad441f84d0d177aab051751d256",
   "candidates": [
     {
       "code": "002133",
       "name": "广宇集团",
-      "price": 2.19,
-      "prev": 2.17,
-      "open": 2.12,
-      "volume": 19581900.0,
-      "timestamp": "20261123161442",
-      "high": 2.2,
-      "low": 2.03,
-      "cap": 1695000000.0,
-      "upper": 2.39,
-      "lower": 1.95,
+      "price": 2.16,
+      "prev": 2.19,
+      "open": 2.21,
+      "volume": 11370800.0,
+      "timestamp": "20261124161451",
+      "high": 2.26,
+      "low": 2.12,
+      "cap": 1672000000.0,
+      "upper": 2.41,
+      "lower": 1.97,
       "listed_date": "2007-04-27"
     },
     {
       "code": "002656",
       "name": "摩登大道",
-      "price": 2.3,
-      "prev": 2.32,
-      "open": 2.31,
-      "volume": 33897300.0,
-      "timestamp": "20261123161439",
-      "high": 2.35,
+      "price": 2.25,
+      "prev": 2.3,
+      "open": 2.3,
+      "volume": 24794600.0,
+      "timestamp": "20261124161433",
+      "high": 2.36,
       "low": 2.21,
-      "cap": 1639000000.0,
-      "upper": 2.55,
-      "lower": 2.09,
+      "cap": 1603000000.0,
+      "upper": 2.53,
+      "lower": 2.07,
       "listed_date": "2012-02-28"
     },
     {
       "code": "002775",
       "name": "文科股份",
-      "price": 2.41,
-      "prev": 2.39,
-      "open": 2.32,
-      "volume": 16453300.0,
-      "timestamp": "20261123161448",
-      "high": 2.41,
-      "low": 2.22,
-      "cap": 1585000000.0,
-      "upper": 2.63,
-      "lower": 2.15,
+      "price": 2.4,
+      "prev": 2.41,
+      "open": 2.45,
+      "volume": 14270100.0,
+      "timestamp": "20261124161427",
+      "high": 2.5,
+      "low": 2.34,
+      "cap": 1579000000.0,
+      "upper": 2.65,
+      "lower": 2.17,
       "listed_date": "2015-06-29"
     },
     {
       "code": "600159",
       "name": "大龙地产",
-      "price": 2.08,
-      "prev": 2.1,
-      "open": 2.06,
-      "volume": 22176300.0,
-      "timestamp": "20261123161437",
-      "high": 2.08,
-      "low": 1.94,
-      "cap": 1726000000.0000002,
-      "upper": 2.31,
-      "lower": 1.89,
+      "price": 2.04,
+      "prev": 2.08,
+      "open": 2.09,
+      "volume": 17144700.0,
+      "timestamp": "20261124161454",
+      "high": 2.14,
+      "low": 2.02,
+      "cap": 1693000000.0,
+      "upper": 2.29,
+      "lower": 1.87,
       "listed_date": "1998-05-26"
     },
     {
       "code": "600303",
       "name": "曙光股份",
-      "price": 2.31,
-      "prev": 2.27,
-      "open": 2.27,
-      "volume": 30659800.0,
-      "timestamp": "20261123161500",
-      "high": 2.32,
-      "low": 2.15,
-      "cap": 1579000000.0,
-      "upper": 2.5,
-      "lower": 2.04,
+      "price": 2.28,
+      "prev": 2.31,
+      "open": 2.34,
+      "volume": 20379700.0,
+      "timestamp": "20261124161455",
+      "high": 2.38,
+      "low": 2.24,
+      "cap": 1559000000.0,
+      "upper": 2.54,
+      "lower": 2.08,
       "listed_date": "2000-12-26"
     },
     {
       "code": "600448",
       "name": "华纺股份",
-      "price": 2.32,
-      "prev": 2.3,
-      "open": 2.25,
-      "volume": 30775900.0,
-      "timestamp": "20261123161459",
-      "high": 2.32,
-      "low": 2.15,
-      "cap": 1461000000.0,
-      "upper": 2.53,
-      "lower": 2.07,
+      "price": 2.27,
+      "prev": 2.32,
+      "open": 2.36,
+      "volume": 26885200.0,
+      "timestamp": "20261124161500",
+      "high": 2.4,
+      "low": 2.25,
+      "cap": 1430000000.0,
+      "upper": 2.55,
+      "lower": 2.09,
       "listed_date": "2001-09-03"
     }
   ],
@@ -117,14 +117,6 @@
       ]
     },
     {
-      "code": "603359",
-      "name": "*ST东珠",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
       "code": "000010",
       "name": "*ST美丽",
       "reasons": [
@@ -133,16 +125,8 @@
       ]
     },
     {
-      "code": "601010",
-      "name": "ST文峰",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
-      "code": "000826",
-      "name": "*ST启环",
+      "code": "603359",
+      "name": "*ST东珠",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -157,6 +141,14 @@
       ]
     },
     {
+      "code": "000826",
+      "name": "*ST启环",
+      "reasons": [
+        "价格不大于2元",
+        "当前ST"
+      ]
+    },
+    {
       "code": "600491",
       "name": "ST龙元",
       "reasons": [
@@ -165,16 +157,16 @@
       ]
     },
     {
-      "code": "002306",
-      "name": "ST云网",
+      "code": "000838",
+      "name": "*ST发展",
       "reasons": [
         "价格不大于2元",
         "当前ST"
       ]
     },
     {
-      "code": "000838",
-      "name": "*ST发展",
+      "code": "002306",
+      "name": "ST云网",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -258,13 +250,6 @@
     {
       "code": "002514",
       "name": "*ST宝馨",
-      "reasons": [
-        "当前ST"
-      ]
-    },
-    {
-      "code": "600423",
-      "name": "*ST柳化",
       "reasons": [
         "当前ST"
       ]

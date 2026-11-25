@@ -1,0 +1,5 @@
+{
+  "observed_at": "2026-11-26T01:39:59.678495+08:00",
+  "error": "尚未开盘，不能创建当日开盘价模拟成交",
+  "status": "FAILED_NO_ACCOUNT_COMMIT"
+}

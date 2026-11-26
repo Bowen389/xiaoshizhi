@@ -1,100 +1,100 @@
 {
-  "input_file": "data/inputs/2026-11-25_a29d63a13234_universe.csv",
-  "date": "2026-11-25",
-  "observed_at": "2026-11-25T16:55:30.102137+08:00",
-  "universe_source_date": "2026-11-25",
+  "input_file": "data/inputs/2026-11-26_4dbdbf5d9375_universe.csv",
+  "date": "2026-11-26",
+  "observed_at": "2026-11-26T16:40:33.205686+08:00",
+  "universe_source_date": "2026-11-26",
   "universe_count": 3194,
   "valid_rank_count": 3194,
-  "universe_sha256": "a29d63a13234fd51f55725c562cef261da03209163e73d6e4f9c844f392087c4",
+  "universe_sha256": "4dbdbf5d937557745c9da2787e897724ccb9164f8d9378a7bf6f630a02a7438e",
   "candidates": [
     {
       "code": "002133",
       "name": "广宇集团",
-      "price": 2.09,
-      "prev": 2.16,
-      "open": 2.14,
-      "volume": 13493000.0,
-      "timestamp": "20261125161436",
-      "high": 2.23,
-      "low": 2.09,
-      "cap": 1618000000.0,
-      "upper": 2.38,
-      "lower": 1.94,
+      "price": 2.1,
+      "prev": 2.09,
+      "open": 2.12,
+      "volume": 13850300.0,
+      "timestamp": "20261126161430",
+      "high": 2.17,
+      "low": 2.06,
+      "cap": 1626000000.0000002,
+      "upper": 2.3,
+      "lower": 1.88,
       "listed_date": "2007-04-27"
     },
     {
       "code": "002535",
       "name": "林州重机",
-      "price": 2.2,
-      "prev": 2.4,
-      "open": 2.33,
-      "volume": 80797800.0,
-      "timestamp": "20261125161430",
-      "high": 2.38,
-      "low": 2.17,
-      "cap": 1764000000.0,
-      "upper": 2.64,
-      "lower": 2.16,
+      "price": 2.11,
+      "prev": 2.2,
+      "open": 2.23,
+      "volume": 66278200.0,
+      "timestamp": "20261126161439",
+      "high": 2.24,
+      "low": 2.06,
+      "cap": 1692000000.0000002,
+      "upper": 2.42,
+      "lower": 1.98,
       "listed_date": "2011-01-11"
     },
     {
       "code": "002656",
       "name": "摩登大道",
-      "price": 2.16,
-      "prev": 2.25,
-      "open": 2.23,
-      "volume": 27749100.0,
-      "timestamp": "20261125161430",
-      "high": 2.3,
-      "low": 2.16,
-      "cap": 1539000000.0,
-      "upper": 2.48,
-      "lower": 2.03,
+      "price": 2.08,
+      "prev": 2.16,
+      "open": 2.17,
+      "volume": 26987900.0,
+      "timestamp": "20261126161430",
+      "high": 2.18,
+      "low": 2.04,
+      "cap": 1482000000.0,
+      "upper": 2.38,
+      "lower": 1.94,
       "listed_date": "2012-02-28"
     },
     {
       "code": "002775",
       "name": "文科股份",
-      "price": 2.28,
-      "prev": 2.4,
-      "open": 2.36,
-      "volume": 17928500.0,
-      "timestamp": "20261125161415",
-      "high": 2.45,
-      "low": 2.27,
-      "cap": 1500000000.0,
-      "upper": 2.64,
-      "lower": 2.16,
+      "price": 2.23,
+      "prev": 2.28,
+      "open": 2.31,
+      "volume": 15579800.0,
+      "timestamp": "20261126161448",
+      "high": 2.33,
+      "low": 2.19,
+      "cap": 1467000000.0,
+      "upper": 2.51,
+      "lower": 2.05,
       "listed_date": "2015-06-29"
     },
     {
       "code": "600303",
       "name": "曙光股份",
-      "price": 2.19,
-      "prev": 2.28,
-      "open": 2.25,
-      "volume": 23685500.0,
-      "timestamp": "20261125161442",
-      "high": 2.34,
-      "low": 2.17,
-      "cap": 1497000000.0,
-      "upper": 2.51,
-      "lower": 2.05,
+      "price": 2.18,
+      "prev": 2.19,
+      "open": 2.21,
+      "volume": 24993600.0,
+      "timestamp": "20261126161455",
+      "high": 2.24,
+      "low": 2.14,
+      "cap": 1490000000.0,
+      "upper": 2.41,
+      "lower": 1.97,
       "listed_date": "2000-12-26"
     },
     {
       "code": "600448",
       "name": "华纺股份",
-      "price": 2.2,
-      "prev": 2.27,
-      "open": 2.27,
-      "volume": 28800100.0,
-      "timestamp": "20261125161447",
-      "high": 2.36,
-      "low": 2.17,
-      "cap": 1386000000.0,
-      "upper": 2.5,
-      "lower": 2.04,
+      "price": 2.18,
+      "prev": 2.2,
+      "open": 2.21,
+      "volume": 28890600.0,
+      "timestamp": "20261126161454",
+      "high": 2.27,
+      "low": 2.15,
+      "cap": 1373000000.0,
+      "upper": 2.42,
+      "lower": 1.98,
       "listed_date": "2001-09-03"
     }
   ],
@@ -165,6 +165,14 @@
       ]
     },
     {
+      "code": "000639",
+      "name": "ST西王",
+      "reasons": [
+        "价格不大于2元",
+        "当前ST"
+      ]
+    },
+    {
       "code": "000838",
       "name": "*ST发展",
       "reasons": [
@@ -175,14 +183,6 @@
     {
       "code": "600439",
       "name": "ST瑞贝卡",
-      "reasons": [
-        "价格不大于2元",
-        "当前ST"
-      ]
-    },
-    {
-      "code": "000639",
-      "name": "ST西王",
       "reasons": [
         "价格不大于2元",
         "当前ST"
@@ -211,11 +211,10 @@
       ]
     },
     {
-      "code": "000677",
-      "name": "ST海龙",
+      "code": "002622",
+      "name": "皓宸医疗",
       "reasons": [
-        "价格不大于2元",
-        "当前ST"
+        "价格不大于2元"
       ]
     },
     {
@@ -226,10 +225,11 @@
       ]
     },
     {
-      "code": "002622",
-      "name": "皓宸医疗",
+      "code": "000677",
+      "name": "ST海龙",
       "reasons": [
-        "价格不大于2元"
+        "价格不大于2元",
+        "当前ST"
       ]
     },
     {
@@ -263,8 +263,8 @@
       ]
     },
     {
-      "code": "603377",
-      "name": "ST东时",
+      "code": "000820",
+      "name": "ST节能",
       "reasons": [
         "当前ST"
       ]
